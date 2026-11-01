@@ -1,0 +1,4 @@
+{"run": "C2_mobilenetv3",
+ "test": {"qwk": 0.8981, "acc": 0.8436, "ref_auc": 0.9842,
+          "sensitivity": 0.9507, "specificity": 0.9388},
+ "border_heat": 0.3082, "cpu_ms": 40.5}

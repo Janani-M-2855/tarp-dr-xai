@@ -1,0 +1,2 @@
+{"backbone": "mobilenetv3_large_100", "head": "cls", "use_mask": true,
+ "thresholds": [0.5, 1.5, 2.5, 3.5], "img_size": 384}

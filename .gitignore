@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+.env
+*.zip
+tarp_demo/model_C2_mobilenetv3/
+tarp_demo/demo_images/
